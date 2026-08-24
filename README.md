@@ -1,2 +1,4 @@
 Esse projeto fala sobre tecnologia social,com foco em inclusão e oportunidades.
 Compreender oq é impacto social e como a tecnologia pode contribuir com a inclusão.
+refletir sobre a importância de desenvolver a solução tecnológicas responsáveis,acessíveis e que beneficiem a sociedade.
+Durante meus estudos sobre o impacto social,percebi que desenvolver tecnologia é pensar em quem pode fica de fora.Eu vivi e trabalhei em áreas rurais onde a internet era limitada,cara e instável.Também vi crianças caminhando longas distâncias para estudar.Essas experiências me fazem ver a desigualdade digital como algo real.E quero criar solucões acessíveis e inclusivas,pensando em pessoas de baixa renda,moradores da zona rurais,mais acessíveis e baratas,e quem mais puder ser deixado de fora pelas barreiras de acesso.A inovação só completa quando melhorar a vida das pessoas de forma justa,reduzindo desigualdades e ampliando oportunidades.
